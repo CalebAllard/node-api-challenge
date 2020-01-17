@@ -39,14 +39,15 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
 - [ ] Mention two parts of Express that you learned about this week.
-
+        The middleware and resource right from express, and all of express is new to me this week.
 - [ ] Describe Middleware?
-
+    middleware custome or already created is a function that gives functionality or a way for clean validation to a endpoint, they can be used for all endpoints or for a specific one, they have access to the request and response of an endpoint also hs a next function which continues to the next middleware in the stack or to the function of the endpoint.
 - [ ] Describe a Resource?
-
+    resource is the data we are manupulating or getting from a database. 
 - [ ] What can the API return to help clients know if a request was successful?
-
+    returning status with your response can help the client know what is happening with a success or failure 
 - [ ] How can we partition our application into sub-applications?
+    I do not understand this question.
 
 ## Minimum Viable Product
 
